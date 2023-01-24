@@ -17,6 +17,33 @@ body {
   position: relative;
 }
 
+.header-content {
+  position: absolute;
+  top: 0;
+  left: 10%;
+  width: 80%;
+}
+
+.navbar-content {
+  color: white;
+  font-weight: bold;
+  font-size: 20pt;
+  text-decoration: none;
+}
+
+.navbar ul {
+  display: table;
+  margin: 5px;
+}
+
+.navbar ul li {
+  display: table-cell;
+  padding: 15px;
+  list-style: none;
+  vertical-align: middle;
+}
+
+
 /* main section */
 
 /* footer section */
